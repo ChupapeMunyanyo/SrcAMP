@@ -202,7 +202,8 @@ input[type="file"] {
   margin-top: 8px;
   font-weight: bold;
   position: relative;
-  right: 125px;
+  right: 150px;
+  bottom: 10px;
 }
 
 .code-input {
